@@ -5,14 +5,14 @@
          "price":10.1,
          "photoUrl":"null",
          "stockAmount":"5",
-         "description":"Kola is a dangerous thing to drink!",
+         "description":"Kola is a dangerous thing to drink!"
       },
       {
          "name":"Fanta",
          "price":7,
          "photoUrl":"null",
          "stockAmount":"2",
-         "description":"Fanta is an extreme suicide drink!",
+         "description":"Fanta is an extreme suicide drink!"
       }
    ],
    "appVer":"1.0.1"
