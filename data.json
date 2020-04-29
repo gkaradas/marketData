@@ -1,0 +1,17 @@
+{
+   "products":[
+      {
+         "name":"Kola",
+         "price":10.1,
+         "photoUrl":"null",
+         "stockAmount":"5"
+      },
+      {
+         "name":"Fanta",
+         "price":7,
+         "photoUrl":"null",
+         "stockAmount":"2"
+      }
+   ],
+   "appVer":"1.0.1"
+}
