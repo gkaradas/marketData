@@ -1,13 +1,13 @@
 {
    "products":[
       {
-         "ID": 0,
+         "ID":0,
          "name":"Cola",
          "price":10.1,
          "photoUrl":"https://ayb.akinoncdn.com/products/2019/01/18/3544/5aa1ee14-1c83-4213-a62b-773c4785e187_size780x780_quality60_cropCenter.jpg",
          "stockAmount":"5",
          "description":"Kola is a dangerous thing to drink!",
-         "nfcCode" : "02656E436F6C61",
+         "nfcCode":"02656E436F6C61"
       },
       {
          "ID":1,
@@ -16,7 +16,7 @@
          "photoUrl":"https://st2.myideasoft.com/idea/eg/61/myassets/products/564/200.jpg?revision=1552329840",
          "stockAmount":"2",
          "description":"Fanta is an extreme suicide drink!",
-         "nfcCode" : "02656E46616E7461"
+         "nfcCode":"02656E46616E7461"
       }
    ],
    "appVer":"1.0.1"
