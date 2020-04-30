@@ -3,14 +3,14 @@
       {
          "name":"Kola",
          "price":10.1,
-         "photoUrl":"null",
+         "photoUrl":"https://ayb.akinoncdn.com/products/2019/01/18/3544/5aa1ee14-1c83-4213-a62b-773c4785e187_size780x780_quality60_cropCenter.jpg",
          "stockAmount":"5",
          "description":"Kola is a dangerous thing to drink!"
       },
       {
          "name":"Fanta",
          "price":7,
-         "photoUrl":"null",
+         "photoUrl":"https://st2.myideasoft.com/idea/eg/61/myassets/products/564/200.jpg?revision=1552329840",
          "stockAmount":"2",
          "description":"Fanta is an extreme suicide drink!"
       }
