@@ -9,6 +9,15 @@
          "description":"Kola is a dangerous thing to drink!",
          "nfcCode":"02656E436F6C61"
       },
+       {
+         "ID":2,
+         "name":"Cola",
+         "price":5,
+         "photoUrl":"https://gkaradas.github.io/marketData/kola.jpg",
+         "stockAmount":"5",
+         "description":"milk is perfect",
+         "nfcCode":"2725169668"
+      },
       {
          "ID":1,
          "name":"Fanta",
