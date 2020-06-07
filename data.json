@@ -11,12 +11,39 @@
       },
        {
          "ID":2,
-         "name":"Cola",
+         "name":"Milk",
          "price":5,
          "photoUrl":"https://gkaradas.github.io/marketData/kola.jpg",
          "stockAmount":"5",
          "description":"milk is perfect",
          "nfcCode":"2725169668"
+      },
+       {
+         "ID":3,
+         "name":"pencil",
+         "price":3,
+         "photoUrl":"https://gkaradas.github.io/marketData/kola.jpg",
+         "stockAmount":"5",
+         "description":"pencil is very nice",
+         "nfcCode":"2725171716"
+      },
+       {
+         "ID":4,
+         "name":"Patato",
+         "price":8,
+         "photoUrl":"https://gkaradas.github.io/marketData/kola.jpg",
+         "stockAmount":"5",
+         "description":"dddd",
+         "nfcCode":"2725170692"
+      },
+       {
+         "ID":5,
+         "name":"Keyboard",
+         "price":150,
+         "photoUrl":"https://gkaradas.github.io/marketData/kola.jpg",
+         "stockAmount":"5",
+         "description":"hh",
+         "nfcCode":"3173442873"
       },
       {
          "ID":1,
