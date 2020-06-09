@@ -2,12 +2,12 @@
    "products":[
       {
          "ID":0,
-         "name":"Cola",
+         "name":"Chai",
          "price":10.1,
          "photoUrl":"https://gkaradas.github.io/marketData/kola.jpg",
          "stockAmount":"5",
-         "description":"Kola is a dangerous thing to drink!",
-         "nfcCode":"02656E436F6C61"
+         "description":"Chai Tea relaxes muscles.",
+         "nfcCode":"02656E63686169"
       },
        {
          "ID":2,
@@ -53,6 +53,24 @@
          "stockAmount":"2",
          "description":"Basic black tea.",
          "nfcCode":"02656E4C6970746F6E"
+      },
+      {
+         "ID":6,
+         "name":"Zencefil Lemon Tea",
+         "price":9,
+         "photoUrl":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03143970/03143970-1720e6.jpg",
+         "stockAmount":"5",
+         "description":"Basic lemon tea.",
+         "nfcCode":"02656E5A656E636566696C"
+      },
+      {
+         "ID":7,
+         "name":"Body Butter",
+         "price":50,
+         "photoUrl":"https://secureservercdn.net/160.153.137.99/159.ea0.myftpupload.com/wp-content/uploads/2019/03/Body-Butter-1.jpg?time=1589668104",
+         "stockAmount":"20",
+         "description":"Body cream to heal your skin.",
+         "nfcCode":"02656E6B72656D"
       }
    ],
    "appVer":"1.0.1"
