@@ -47,11 +47,11 @@
       },
       {
          "ID":1,
-         "name":"Fanta",
+         "name":"Lipton",
          "price":7,
-         "photoUrl":"https://gkaradas.github.io/marketData/fanta.jpg",
+         "photoUrl":"https://productimages.hepsiburada.net/s/31/460/10327368532018.jpg",
          "stockAmount":"2",
-         "description":"Fanta is an extreme suicide drink!",
+         "description":"Basic black tea.",
          "nfcCode":"02656E46616E7461"
       }
    ],
